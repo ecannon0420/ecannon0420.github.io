@@ -7,5 +7,5 @@ title: Home Page
 <p><i>By Elijah Cannon</i></p>
 <p>This will serve as a place to post all of my progress throughout the semester.</p>
 <a href="project1/index.html">Homework 1</a>
-
+<a href="project2/index.html">Homework 2</a>
 
