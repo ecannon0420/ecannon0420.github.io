@@ -4,7 +4,7 @@ title: Homework 2
 ---
 
 <h1>HW 2: Roll-A-Ball</h1> 
-<img src="roll_a_ball.mp4">
+<a href="https://jmu.instructuremedia.com/embed/10630c9c-da16-4501-a308-093318e7a0ac">Roll-a-Ball Video</a>
 <p>The personal modification I made to my game was more aesthetic than functional. I just added some tree objects around the arena as decoration. Had I started a bit sooner, I could have made something that the player could interact with. Three takeaways from this project were:</p>
 <ol>
     <li>Unity is a bit different from Godot (the only game engine I had used up to this point</li>
