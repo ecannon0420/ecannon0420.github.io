@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Homework
+title: Homework 1
 ---
 
 <h1>HW 1: Unity First Scene</h1>
