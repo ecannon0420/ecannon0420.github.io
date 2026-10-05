@@ -3,7 +3,7 @@ layout: post
 title: Homework 3
 ---
 
-<h1>HW 3: My First XR Experience<h1>
+<h1>HW 3: My First XR Experience</h1>
 <a href="https://jmu.instructuremedia.com/embed/74cd763e-f581-4a57-bb69-6a914e10ddf0">My First XR Experience</a>
 <p>This scene takes place somewhere in the mountains and is meant to convey the story of using explosives to mine for gold. You walk through the process of taking your explosive, putting it in the desired area, and getting some distance before blowing up the mountain and finding your reward inside. Three key takeaways I got from this project were:</p>
 <ol>
