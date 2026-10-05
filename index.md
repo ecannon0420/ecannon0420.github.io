@@ -11,4 +11,3 @@ title: Home Page
 <a href="project2/index.html">Homework 2</a>
 <div>
 <a href="project3/index.html">Homework 3</a>
-
