@@ -14,9 +14,12 @@ title: Homework 4
 <p>I see that this will allow easier use of Unity for those who aren't familiar with that kind of workspace. It also allows everyone to experiment and give their ideas on how things should interact with each other.</p>
 <p>The hardest part of this for me was easily the documentation guide. Working on it can be a bit tedious when you're writing it so someone who has never seen Unity before. I do understand why it's important, though.</p>
 <p>My Four Scripts</p>
-<a href="OnTriggerAction.cs">On Trigger Action</a>
-<a href="TimedAction.cs">Timed Action</a>
-<a href="CollideAction.cs">Collide Action</a>
-<a href="SequencAction.cs">Sequence Action</a>
+<ul>
+    <li><a href="OnTriggerAction.cs">On Trigger Action</a></li>
+    <li><a href="TimedAction.cs">Timed Action</a></li>
+    <li><a href="CollideAction.cs">Collide Action</a></li>
+    <li><a href="SequencAction.cs">Sequence Action</a></li>
+</ul>
 <a href="CS480 No-Code Toolkit Documentation.pdf">My Documentation Guide</a>
+<div>
 <a href="../index.html">Return to main page</a>
